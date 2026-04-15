@@ -1,5 +1,5 @@
 from __future__ import annotations
-from typing import Optional, List, Any
+from typing import Optional, List
 
 
 class ListNode:
